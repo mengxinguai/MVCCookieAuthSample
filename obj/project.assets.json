@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\netCoreLength\\MVCCookieAuthSample\\MVCCookieAuthSample.csproj",
+      "projectUniqueName": "e:\\netCoreLength\\MVCCookieAuthSample\\MVCCookieAuthSample.csproj",
       "projectName": "MVCCookieAuthSample",
-      "projectPath": "E:\\netCoreLength\\MVCCookieAuthSample\\MVCCookieAuthSample.csproj",
+      "projectPath": "e:\\netCoreLength\\MVCCookieAuthSample\\MVCCookieAuthSample.csproj",
       "packagesPath": "C:\\Users\\tjh\\.nuget\\packages\\",
-      "outputPath": "E:\\netCoreLength\\MVCCookieAuthSample\\obj\\",
+      "outputPath": "e:\\netCoreLength\\MVCCookieAuthSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
